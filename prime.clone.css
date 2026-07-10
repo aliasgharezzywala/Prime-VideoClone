@@ -14,7 +14,7 @@ body {
 /* Navigation Bar */
 
 nav {
-    background-color: #00050d;
+    background-color: #000a1ae0;
     display: flex;
     gap: 20px;
     height: 64px;
@@ -167,7 +167,7 @@ nav {
 .select-nav {
     width: 43.03px;
     height: 60px;
-    background-color: #00050d;
+    background-color: #000a1ae0;
     color: white;
     border: none;
     font-size: 15px;
