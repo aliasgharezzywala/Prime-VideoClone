@@ -26,6 +26,8 @@ nav {
     justify-content: space-between;
 }
 
+
+
 .menu {
     display: none;
 }
@@ -555,6 +557,10 @@ footer {
         margin-right: 0;
         left: 12px;
         display: none;
+    }
+
+    .nav-second {
+        width: 35%;
     }
 
     /* .store,
